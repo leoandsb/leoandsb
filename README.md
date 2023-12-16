@@ -36,7 +36,7 @@
 <h2 align="center">💡 My Development Kit 💡</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,githubgit,discord,bots,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,discord,bots,java,kotlin" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,cpp,cs" /><br>
 </div>
 
